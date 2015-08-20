@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.avinashdodda.mymlbproject.PlayerActivity">
+    <item android:id="@+id/action_sort_name" android:title="@string/sort_name"
+        android:showAsAction="never"/>
+    <item android:id="@+id/action_sort_by_position" android:title="@string/sort_position"
+        android:showAsAction="never"/>
+    <item android:id="@+id/action_sort_salary" android:title="@string/sort_salary"
+        android:showAsAction="never"/>
+    <item android:id="@+id/action_sort_injury" android:title="@string/sort_injury"
+        android:showAsAction="never"/>
+</menu>
